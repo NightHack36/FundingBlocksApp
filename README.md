@@ -33,7 +33,7 @@ What if donations become transparent?<br/>Introducing a new and decentralised wa
 
 # 🔎 About the Project
 
-[Funding Blocks TRUST](https://fundingblocks.ml/) is the First of it's kind decentralised donation app. It eliminates majority of obstacles and risk factors that we face while Donating relief funds.
+[Decentralized Funding App](https://fundingblocks.ml/) is the First of it's kind decentralised donation app. It eliminates majority of obstacles and risk factors that we face while Donating relief funds.
 It ensures the transparency in a trustless environment, enabling rapid action to any disaster in the world.
 
 <a id=built-with></a>
