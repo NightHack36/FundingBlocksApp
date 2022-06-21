@@ -131,7 +131,7 @@ Check in browser on http://localhost:3000/
 
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/OjusWiZard"><img src="https://avatars.githubusercontent.com/OjusWiZard" width="100px;"><br><sub><b>Ojuswi Rastogi</b></sub></a><br><a href="https://github.com/Shruti3004/Funding-Blocks/commits?author=OjusWiZard" title="Contributions">💻 🖋</a></td> </a></td>
+    <td align="center"><a href="https://github.com/OjusWiZard"><img src="https://avatars.githubusercontent.com/OjusWiZard" width="100px;"><br><sub><b>Ojuswi Rastogi</b></sub></a><br><a href="https://github.com/drraghavendra/Funding-Blocks-Trust/commits?author=OjusWiZard" title="Contributions">💻 🖋</a></td> </a></td>
     
   </tbody></tr>
 </table>
