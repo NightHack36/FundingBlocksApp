@@ -125,18 +125,7 @@ It ensures the transparency in a trustless environment, enabling rapid action to
 
 Check in browser on http://localhost:3000/
 
-<a id=team></a>
 
-# 🥂 Team
-
-<table>
-  <tbody><tr>
-    <a href="https://github.com/drraghavendra/Funding-Blocks-Trust/commits?author=OjusWiZard" title="Contributions">💻 🖋</a></td> </a></td>
-    
-  </tbody></tr>
-</table>
-
-<a id=license></a>
 
 # 📝 License
 
