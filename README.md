@@ -6,7 +6,7 @@
 What if donations become transparent?<br/>Introducing a new and decentralised way to help!
 </p>
 <p align="center">
-<a href="https://fundingblocks.ml/">View Demo</a>
+<a href="https://drive.google.com/file/d/108hK4AF_wOCjk2rC_dCbFuZyEpQWdn7r/view?usp=sharing">View Demo</a>
 </p>
 
 <details open="open">
@@ -131,7 +131,7 @@ Check in browser on http://localhost:3000/
 
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/OjusWiZard"><img src="https://avatars.githubusercontent.com/OjusWiZard" width="100px;"><br><sub><b>Ojuswi Rastogi</b></sub></a><br><a href="https://github.com/drraghavendra/Funding-Blocks-Trust/commits?author=OjusWiZard" title="Contributions">💻 🖋</a></td> </a></td>
+    <a href="https://github.com/drraghavendra/Funding-Blocks-Trust/commits?author=OjusWiZard" title="Contributions">💻 🖋</a></td> </a></td>
     
   </tbody></tr>
 </table>
