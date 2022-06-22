@@ -6,7 +6,7 @@
 What if donations become transparent?<br/>Introducing a new and decentralised way to help!
 </p>
 <p align="center">
-<a href="https://drive.google.com/file/d/1lMpHc-KcICcEPLRGvGOHur0i3ISGooy9/view?usp=sharing">View Demo</a>
+<a href="https://youtu.be/0XVJO3rAd8M">View Demo</a>
 </p>
 
 <details open="open">
