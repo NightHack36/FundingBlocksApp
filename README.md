@@ -124,7 +124,10 @@ Check in browser on http://localhost:3000/
 
 # Results and Outcomes 
 
-https://github.com/drraghavendra/FundingBlocksApp/blob/main/demo/9aa221db-1aef-4446-a43f-be030ff00b78.png
+The entire workflow of Donation App can be explained as follows
+
+
+![]( https://github.com/drraghavendra/FundingBlocksApp/blob/main/demo/9aa221db-1aef-4446-a43f-be030ff00b78.png )
 
 
 # 📝 License
